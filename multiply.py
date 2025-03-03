@@ -1,4 +1,4 @@
-x=2
-y=5
+x=20
+y=15
 ans=x*y
 print(ans)
